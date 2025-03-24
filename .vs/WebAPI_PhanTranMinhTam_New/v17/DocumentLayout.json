@@ -1,0 +1,901 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\rankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\rankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\permisstionrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\permisstionrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\sendgiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\sendgiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\permisstioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\permisstioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\authorization\\permisstionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\authorization\\permisstionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\authorization\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\authorization\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\authorization\\permissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\authorization\\permissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\authorization\\customprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\authorization\\customprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\rankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\rankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\giftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\giftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\sendgiftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\sendgiftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\mappings\\mappinggift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\mappings\\mappinggift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\validations\\tokenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\validations\\tokenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\validations\\giftvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\validations\\giftvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\data\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\data\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\addgiftdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\addgiftdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\creategiftcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\creategiftcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\reponsitory\\reponsitorywapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\reponsitory\\reponsitorywapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\reponsitory\\reponsitorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\reponsitory\\reponsitorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\updategiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\updategiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\schedulegiftdistributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\schedulegiftdistributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\permisstionroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\permisstionroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\permisstiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\permisstiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\creategiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\creategiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|d:\\github\\usermanagament-\\giftmanagement_new\\webapi_phantranminhtam_new\\models\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E943E9E0-8786-434B-9EF2-E58F94CC2643}|WebAPI_PhanTranMinhTam_New\\WebAPI_PhanTranMinhTam_New.csproj|solutionrelative:webapi_phantranminhtam_new\\models\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RankController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\RankController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\RankController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\RankController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\RankController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:49:50.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:00:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermisstionRoleController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionRoleController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionRoleController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionRoleController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionRoleController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:26:15.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:59:25.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:00:25.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendGiftController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\SendGiftController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\SendGiftController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\SendGiftController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\SendGiftController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:00:15.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GiftController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\GiftController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\GiftController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\GiftController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\GiftController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:49:52.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:13:31.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:57:51.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermisstionController.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionController.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionController.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionController.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Controllers\\PermisstionController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:59:32.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PermisstionAttribute.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\PermisstionAttribute.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Authorization\\PermisstionAttribute.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\PermisstionAttribute.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Authorization\\PermisstionAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:24:02.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermissionRequirement.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionRequirement.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionRequirement.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionRequirement.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:24:00.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\UserServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\UserServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:22:15.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomProvider.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\CustomProvider.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Authorization\\CustomProvider.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\CustomProvider.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Authorization\\CustomProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:32:10.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PermissionHandler.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionHandler.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionHandler.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionHandler.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Authorization\\PermissionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:32:27.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Program.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Program.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:21:47.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\MyDbContext.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAQwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:00.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Gift.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Gift.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Gift.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Gift.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:34:43.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cartitem.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Cartitem.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Cartitem.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Cartitem.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Cartitem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:22:48.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RankServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\RankServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\RankServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\RankServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\RankServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:26:23.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Order.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Order.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:33:46.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\OrderServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\OrderServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\OrderServices.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAswA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:59:10.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\PagedResult.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\PagedResult.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\PagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:31.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\UserActivity.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\UserActivity.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\UserActivity.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\UserActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:32:16.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Orderitem.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Orderitem.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Orderitem.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Orderitem.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Orderitem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:33:46.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\AuthServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\AuthServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\AuthServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:28:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GiftServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\GiftServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\GiftServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\GiftServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\GiftServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:19:07.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\CartServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\CartServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\CartServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\CartServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:50:02.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\User.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\User.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\User.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:22:27.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\RefreshToken.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\RefreshToken.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:07.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Role.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Role.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Role.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:10.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Cart.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Cart.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Cart.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:22:47.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SendGiftServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\SendGiftServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\SendGiftServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\SendGiftServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\SendGiftServices.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:47:40.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingGift.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Mappings\\MappingGift.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Mappings\\MappingGift.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Mappings\\MappingGift.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Mappings\\MappingGift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:48:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoleServices.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\RoleServices.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Services\\RoleServices.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Services\\RoleServices.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Services\\RoleServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:21:32.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TokenValidation.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Validations\\TokenValidation.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Validations\\TokenValidation.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Validations\\TokenValidation.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Validations\\TokenValidation.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwJAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:27:27.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GiftValidation.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Validations\\GiftValidation.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Validations\\GiftValidation.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Validations\\GiftValidation.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Validations\\GiftValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:40:35.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Permission.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Permission.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Permission.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:05.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Rolepermission.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Rolepermission.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Data\\Rolepermission.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Data\\Rolepermission.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Data\\Rolepermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:11.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddGiftDTO .cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\AddGiftDTO .cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\AddGiftDTO .cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\AddGiftDTO .cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\AddGiftDTO .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:22.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateGiftCartDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftCartDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftCartDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftCartDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftCartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\CreateDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\CreateDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\CreateDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\CreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:24.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\UpdateUserDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\UpdateUserDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\UpdateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:45.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReponsitoryWapper.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryWapper.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryWapper.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryWapper.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryWapper.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:49:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ReponsitoryBase.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryBase.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryBase.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryBase.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Reponsitory\\ReponsitoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:47:53.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\RoleDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\RoleDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:38.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ScheduleGiftDistributionDto.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\ScheduleGiftDistributionDto.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\ScheduleGiftDistributionDto.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\ScheduleGiftDistributionDto.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\ScheduleGiftDistributionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:40.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\TokenDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\TokenDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateGiftDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\UpdateGiftDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\UpdateGiftDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\UpdateGiftDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\UpdateGiftDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\Result.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\Result.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\RegisterDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:34.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PermisstionRoleDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\PermisstionRoleDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\PermisstionRoleDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\PermisstionRoleDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\PermisstionRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:33.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PermisstionDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\PermisstionDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\PermisstionDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\PermisstionDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\PermisstionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:32.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateGiftDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\CreateGiftDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_PhanTranMinhTam_New\\Models\\AuthDTO.cs",
+              "ToolTip": "D:\\GitHub\\UserManagament-\\GiftManagement_New\\WebAPI_PhanTranMinhTam_New\\Models\\AuthDTO.cs",
+              "RelativeToolTip": "WebAPI_PhanTranMinhTam_New\\Models\\AuthDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:58:24.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

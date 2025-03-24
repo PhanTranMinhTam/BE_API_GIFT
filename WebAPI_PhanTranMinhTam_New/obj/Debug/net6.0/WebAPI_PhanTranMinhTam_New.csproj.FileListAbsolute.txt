@@ -1,0 +1,152 @@
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\appsettings.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.staticwebassets.runtime.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.exe
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.deps.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.runtimeconfig.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.pdb
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.csproj.AssemblyReference.cache
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.AssemblyInfoInputs.cache
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.AssemblyInfo.cs
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.csproj.CoreCompileInputs.cache
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_PhanTranMinhTam_New.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_PhanTranMinhTam_New.props
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_PhanTranMinhTam_New.props
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_PhanTranMinhTam_New.props
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\scopedcss\bundle\WebAPI_PhanTranMinhTam_New.styles.css
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_P.A586B721.Up2Date
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\refint\WebAPI_PhanTranMinhTam_New.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.pdb
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.genruntimeconfig.cache
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\ref\WebAPI_PhanTranMinhTam_New.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Phan Tran Minh Tam\source\repos\WebAPI_PhanTranMinhTam_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\appsettings.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.staticwebassets.runtime.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.exe
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.deps.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.runtimeconfig.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\WebAPI_PhanTranMinhTam_New.pdb
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\AutoMapper.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\FluentValidation.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Humanizer.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.csproj.AssemblyReference.cache
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.AssemblyInfoInputs.cache
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.AssemblyInfo.cs
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.csproj.CoreCompileInputs.cache
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.sourcelink.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_PhanTranMinhTam_New.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_PhanTranMinhTam_New.props
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_PhanTranMinhTam_New.props
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_PhanTranMinhTam_New.props
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\scopedcss\bundle\WebAPI_PhanTranMinhTam_New.styles.css
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_P.A586B721.Up2Date
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\refint\WebAPI_PhanTranMinhTam_New.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.pdb
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\WebAPI_PhanTranMinhTam_New.genruntimeconfig.cache
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\obj\Debug\net6.0\ref\WebAPI_PhanTranMinhTam_New.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Hangfire.Core.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Hangfire.NetCore.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Hangfire.SqlServer.dll
+D:\GitHub\UserManagament-\GiftManagement_New\WebAPI_PhanTranMinhTam_New\bin\Debug\net6.0\Newtonsoft.Json.dll
